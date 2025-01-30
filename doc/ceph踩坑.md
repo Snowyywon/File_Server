@@ -1,0 +1,5 @@
+现ceph是集成在ceph/daemon中的
+
+需要现提前创建对应名称的bucket
+
+ceph拿来存储核心文件的备份和缓存，不仅在oss上保存，在ceph也有
